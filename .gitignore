@@ -1,0 +1,11 @@
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.mat
+*.fig
+slprj/
+codegen/
+.DS_Store
+Thumbs.db
+.vscode/
